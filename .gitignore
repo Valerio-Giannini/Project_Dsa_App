@@ -1,0 +1,15 @@
+*
+!*/
+!lib/*
+!.gitignore
+!.dart
+/.dart_tool/
+/.idea/
+/android/
+/build/
+/ios/
+/linux/
+/macos/
+/test/
+/web/
+/windows/
