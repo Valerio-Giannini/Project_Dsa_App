@@ -13,3 +13,6 @@
 /test/
 /web/
 /windows/
+/app/
+/gradle/
+/.gradle/
