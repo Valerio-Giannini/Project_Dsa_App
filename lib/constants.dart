@@ -1,6 +1,7 @@
 var TITLE = "Lernify";
 var login = "/login/";
 var registration = "/registration/";
+var home = "/home/";
 var labelSizeWidth = 370.0;
 var labelSizeHeight = 55.0;
 const headlineLarge = 60.0;

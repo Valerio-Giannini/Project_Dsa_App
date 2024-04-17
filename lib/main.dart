@@ -1,6 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:project_app/Services/auth.dart';
+import 'package:project_app/Upload.dart';
 import 'package:project_app/register_page_widget.dart';
 import 'constants.dart';
 import 'login_page_widget.dart';
@@ -25,7 +26,7 @@ void main() async {
           primarySwatch: Colors.lightBlue,
           primaryColor: Colors.blue,
       ),
-          home: WelcomePageWidget(),
+          home: UploadWidget(),
 
         routes : {
             login : (context) => const LoginPageWidget(),
